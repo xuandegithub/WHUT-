@@ -175,7 +175,7 @@ sudo chmod +x /etc/rc.local
 
 - 方式一：支持双WAN口的路由器（如 TP-LINK R384G）
 - 方式二：采用单网口内部虚拟WAN口
-- 使用一直开机的设备（NAS或者树莓派装两个Debian虚拟机）
+- 长开机设备（NAS或者树莓派装两个Debian虚拟机）
 
 
 ### 原理说明
